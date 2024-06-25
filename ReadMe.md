@@ -12,10 +12,10 @@ Project Overview
 
 Files
 
-- visits.csv: Contains information about user visits to the page.
-- cart.csv: Contains information about users adding items to their cart.
-- checkout.csv: Contains information about users proceeding to checkout.
-- purchase.csv: Contains information about users completing a purchase.
+visits.csv: Contains information about user visits to the page.
+cart.csv: Contains information about users adding items to their cart.
+checkout.csv: Contains information about users proceeding to checkout.
+purchase.csv: Contains information about users completing a purchase.
 
 Steps
 
