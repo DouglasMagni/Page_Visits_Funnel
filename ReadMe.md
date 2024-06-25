@@ -3,7 +3,7 @@ This project analyzes the journey of users through an e-commerce site using data
 
 Project Overview
 
-- The goal of this project is to understand the drop-off rates at different stages of the shopping funnel:
+The goal of this project is to understand the drop-off rates at different stages of the shopping funnel:
 
 1 - Visitors who visit the page
 2 - Visitors who add items to their cart
@@ -12,10 +12,10 @@ Project Overview
 
 Files
 
-visits.csv: Contains information about user visits to the page.
-cart.csv: Contains information about users adding items to their cart.
-checkout.csv: Contains information about users proceeding to checkout.
-purchase.csv: Contains information about users completing a purchase.
+- visits.csv: Contains information about user visits to the page.
+- cart.csv: Contains information about users adding items to their cart.
+- checkout.csv: Contains information about users proceeding to checkout.
+- purchase.csv: Contains information about users completing a purchase.
 
 Steps
 
